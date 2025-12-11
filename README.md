@@ -32,11 +32,11 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for detailed architecture diagram and com
 
 | Service | Repository | Docker Hub Image |
 |---------|-----------|------------------|
-| Store-Front | [Link](#) | [Link](#) |
-| Store-Admin | [Link](#) | [Link](#) |
-| Order-Service | [Link](#) | [Link](#) |
-| Product-Service | [Link](#) | [Link](#) |
-| Makeline-Service | [Link](#) | [Link](#) |
+| Store-Front | [https://github.com/Sighopss/store-front](#) | [trevorkutto/store-front](https://hub.docker.com/r/trevorkutto/store-front) |
+| Store-Admin | [https://github.com/Sighopss/store-admin](#) | [trevorkutto/store-admin](https://hub.docker.com/r/trevorkutto/store-admin) |
+| Order-Service | [https://github.com/Sighopss/order-service](#) | [trevorkutto/order-service](https://hub.docker.com/r/trevorkutto/order-service) |
+| Product-Service | [https://github.com/Sighopss/product-service](#) | [trevorkutto/product-service](https://hub.docker.com/r/trevorkutto/product-service) |
+| Makeline-Service | [https://github.com/Sighopss/makeline-service](#) | [trevorkutto/makeline-service](https://hub.docker.com/r/trevorkutto/makeline-service) |
 
 ## Deployment Instructions
 
@@ -132,4 +132,5 @@ Configure the following secrets in GitHub:
 ## License
 
 MIT License
+
 
