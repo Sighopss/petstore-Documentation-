@@ -1,6 +1,6 @@
-# Algonquin Pet Store (On Steroids) - Cloud Native Application
+# Algonquin Pet Store new version! - Cloud Native Application
 
-A microservices-based e-commerce application for a pet store, built with cloud-native principles and deployed on Kubernetes.
+A microservices-based e-commerce application for a pet store, built with cloud-native principles and deployed on Kubernetes. my own version 
 
 ## Architecture
 
@@ -132,5 +132,6 @@ Configure the following secrets in GitHub:
 ## License
 
 MIT License
+
 
 
